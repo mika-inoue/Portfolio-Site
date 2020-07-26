@@ -45,7 +45,7 @@ nav {
     color: white;
   }
 
-  
+
 
 main{
   display: flex;
@@ -87,6 +87,10 @@ main{
     article ul li {
       line-height: 1.5;
       padding: 0.5em 0;
+    }
+
+    img{
+      width: 100%
     }
 
   aside{
